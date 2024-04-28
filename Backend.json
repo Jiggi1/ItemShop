@@ -2,21 +2,21 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_029_Athena_Commando_F_Halloween"
+            "AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"
         ],
-        "price": 1500
+        "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_030_Athena_Commando_M_Halloween"
+            "AthenaDance:EID_NeverGonna"
         ],
-        "price": 1500
+        "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_376_FNCS"
+            "AthenaGlider:Glider_ID_009_CandyCoat"
         ],
-        "price": 1200
+        "price": 500
     },
     "daily4": {
         "itemGrants": [
@@ -38,20 +38,20 @@
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_715_Athena_Commando_F_TwinDark" 
+            "AthenaCharacter:CID_029_Athena_Commando_F_Halloween"AthenaCharacter:CID_715_Athena_Commando_F_TwinDark" 
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaDance:EID_NeverGonna"
+            "AthenaCharacter:CID_030_Athena_Commando_M_Halloween"
         ],
-        "price": 800
+        "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_009_CandyCoat"
+            "AthenaPickaxe:Pickaxe_ID_376_FNCS"
         ],
-        "price": 500
+        "price": 1200
     }
 }
