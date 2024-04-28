@@ -1,12 +1,12 @@
-CID_083_Athena_Commando_F_Tactical, 1200
-BID_030_TacticalRogue
-Pickaxe_ID_029_Assassin, 800
-Glider_ID_017_Assassin, 600
+CID_029_Athena_Commando_F_Halloween, 1200
+CID_030_Athena_Commando_M_Halloween, 1200
+Pickaxe_ID_376_FNCS, 1200
+BID_004_BlackKnight, 600
 na
 na
-CID_397_Athena_Commando_F_TreasureHunterFashion, 800
-CID_315_Athena_Commando_M_TeriyakiFish, 900
-EID_TourBus, 500
-EID_Twist, 400
-Glider_ID_110_TeriyakiFish, 700
-HappyPickaxe, 500
+BID_229_LuckyRiderMale, 200
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 900
+BID_138_Celestial, 500
+MusicPack_008_Coral, 500
+CID_601_Athena_Commando_F_Palespooky, 700
+Umbrella_Season_12, 300
