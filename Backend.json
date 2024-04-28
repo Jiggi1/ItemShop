@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaPickaxe:HappyPickaxe"
+            "AthenaCharacter:CID_029_Athena_Commando_F_Halloween"
         ],
-        "price": 500
+        "price": 1500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_315_Athena_Commando_M_TeriyakiFish", "AthenaBackpack:BID_193_TeriyakiFishMale"
+            "AthenaCharacter:CID_030_Athena_Commando_M_Halloween"
         ],
-        "price": 900
+        "price": 1500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_TourBus"
+            "AthenaPickaxe:Pickaxe_ID_376_FNCS"
         ],
-        "price": 500
+        "price": 1200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_110_TeriyakiFish"
+            "AthenaGlider:Umbrella_Season_09"
         ],
         "price": 700
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_397_Athena_Commando_F_TreasureHunterFashion"
+            "AthenaDance:EID_RideThePonyTwo"
         ],
-        "price": 800
+        "price": 500
     },
     "daily6": {
         "itemGrants": [
-            "AthenaDance:EID_Twist"
+            "AthenaBackpack:BID_229_LuckyRiderMale"
         ],
         "price": 400
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "AthenaBackpack:BID_030_TacticalRogue"
+            "AthenaCharacter:CID_715_Athena_Commando_F_TwinDark" 
         ],
         "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_029_Assassin"
+            "AthenaDance:EID_NeverGonna"
         ],
         "price": 800
     },
     "featured3": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_017_Assassin"
+            "AthenaGlider:Glider_ID_009_CandyCoat"
         ],
-        "price": 600
+        "price": 500
     }
 }
